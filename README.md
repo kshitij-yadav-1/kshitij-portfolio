@@ -9,7 +9,7 @@ Welcome to my personal portfolio! I’m an M.Com graduate with a background in c
 **Location:** Moradabad, Uttar Pradesh  
 **Contact:** [kshitij.yadav365@gmail.com](mailto:kshitij.yadav365@gmail.com) | 📞 +91 8791811829  
 **Portfolio:** [🌐 Website](https://kshitij-yadav-1.github.io/kshitij-portfolio)  
-**LinkedIn:** [🔗 LinkedIn Profile](https://www.linkedin.com/in/kshitij-yadav-me13)  
+**LinkedIn:** [🔗 LinkedIn Profile](https://www.linkedin.com/in/kshitij-yadav-IM13)  
 
 ---
 
