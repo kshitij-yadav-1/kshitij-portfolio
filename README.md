@@ -4,7 +4,7 @@
 📍 **Location:** Moradabad, Uttar Pradesh, India  
 📞 **Phone:** +91 87918 11829  
 📧 **Email:** [kshitij.yadav365@gmail.com](mailto:kshitij.yadav365@gmail.com)  
-🔗 **Portfolio Website:** [kshitij-yadav-1.github.io/kshitij-portfolio/kshitij_portfolio.html](https://kshitij-yadav-1.github.io/kshitij-portfolio/kshitij_portfolio.html)  
+🔗 **Portfolio Website:** [https://kshitij-yadav-1.github.io/kshitij-portfolio/](https://kshitij-yadav-1.github.io/kshitij-portfolio/)  
 🔗 **LinkedIn:** [linkedin.com/in/kshitij-yadav-me13](https://www.linkedin.com/in/kshitij-yadav-me13)
 
 ---
