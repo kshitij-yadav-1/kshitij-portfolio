@@ -83,4 +83,4 @@ Scan the QR code to view my live portfolio:
 
 ---
 
-> 🌟 *Thank you for visiting my portfolio! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kshitij-yadav-me13).*
+> 🌟 *Thank you for visiting my portfolio! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kshitij-yadav-im13).*
